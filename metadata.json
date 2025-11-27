@@ -1,0 +1,5 @@
+{
+  "name": "hayoola-dshboard",
+  "description": "A user dashboard for a Karate website where users can manage their personal information, sports documents, events, and financial records. Admins can approve user-submitted data through a separate backend.",
+  "requestFramePermissions": []
+}
